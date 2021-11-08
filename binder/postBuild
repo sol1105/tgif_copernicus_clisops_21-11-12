@@ -1,0 +1,4 @@
+set -e
+
+git clone https://github.com/roocs/mini-esgf-data ~/.mini-esgf-data
+
