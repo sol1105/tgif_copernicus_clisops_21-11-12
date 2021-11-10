@@ -6,4 +6,4 @@ Material and Environment for the TGIF presentation from 12th Nov 2021 about COPE
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/sol1105/tgif_copernicus_clisops_21-11-12/HEAD?filepath=notebooks)
 
-[![NBViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/sol1105/tgif_copernicus_clisops_21-11-12/tree/master/notebooks/)
+[![NBViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/sol1105/tgif_copernicus_clisops_21-11-12/tree/main/notebooks/)
