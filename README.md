@@ -1,4 +1,4 @@
-# TGIF 12th November 2021 - COPERNICUS - clisops subsetting and regridding
+# TGIF 12th November 2021 - COPERNICUS  -  clisops subsetting and regridding
 
 Material and Environment for the TGIF presentation from 12th Nov 2021 about COPERNICUS C3S_34e and [roocs:clisops](https://github.com/roocs/clisops) 
 
