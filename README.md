@@ -1,4 +1,4 @@
-# TGIF 12th November 2021 - COPERNICUS  -  clisops subsetting and regridding
+# TGIF 12th November 2021 - COPERNICUS - clisops subsetting and regridding
 
 Material and Environment for the TGIF presentation from 12th Nov 2021 about COPERNICUS C3S_34e and [roocs:clisops](https://github.com/roocs/clisops) 
 
@@ -6,4 +6,4 @@ Material and Environment for the TGIF presentation from 12th Nov 2021 about COPE
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/sol1105/tgif_copernicus_clisops_21-11-12/HEAD?filepath=notebooks)
 
-
+[![NBViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/sol1105/tgif_copernicus_clisops_21-11-12/tree/master/notebooks/)
