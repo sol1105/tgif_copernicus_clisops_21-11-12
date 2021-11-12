@@ -16,7 +16,7 @@ git clone https://github.com/sol1105/tgif_copernicus_clisops_21-11-12.git
 # access the folder and create the environment using conda or mamba
 cd tgif_copernicus_clisops_21-11-12
 conda env create
-conda activate tgif_copernicus
+conda activate tgif_clisops
 
 # start jupyter notebook
 jupyter notebook
